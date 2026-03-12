@@ -23,3 +23,4 @@ Notes, scripts, and experiments as I work through each chapter.
 |---------|-------|--------|
 | 01 | First Aeronautical Engineers | Skipped |
 | 02 | Fundamental Thoughts | Complete |
+| 03 | The Standard Atmosphere | In progress |
