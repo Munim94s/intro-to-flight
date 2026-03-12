@@ -2,6 +2,8 @@
 
 Another concept I found interesting was that pressure and density can be calculated on a single point without needing an area. Shrinking the area/volume down near zero or approaching zero using limits. Formula/mathematical definitions are in [formula.md](formula.md)
 
+*I prefer ∆x notation over dx — delta feels more explicit as "change in x"*
+
 Average energy of molecules can be calculated with Boltzmann constant and temperature. Formula stated in [formula.md](formula.md)
 
 Force from aerodynamic on an aircraft is generally from two natural sources:
