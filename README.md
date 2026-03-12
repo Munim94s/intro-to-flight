@@ -22,4 +22,4 @@ Notes, scripts, and experiments as I work through each chapter.
 | Chapter | Topic | Status |
 |---------|-------|--------|
 | 01 | First Aeronautical Engineers | Skipped |
-| 02 | Fundamental Thoughts | In progress |
+| 02 | Fundamental Thoughts | Complete |
