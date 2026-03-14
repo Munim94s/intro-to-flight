@@ -7,7 +7,7 @@ Types of altitude:
 
 One concept that took me a bit to understand was the practical relation between **Geopotential Altitude** and **Geometric Altitude**. Eventually learned **Geopotential Altitude** was a fictional/imaginary altitude (Such as imaginary line the Equator) which was calculated by keeping g (acceleration-due-to-gravity) constant as it would be in sea-level ( *g<sub>0</sub>* ). 
 
-Converting Geopotential altitude doesn't make meaningful difference below the altitude of **65 km**. Conversion method is mentioned in [formula.md](formula.md)
+Converting Geopotential altitude doesn't make meaningful difference below the altitude of **65 km**. Conversion method is mentioned in the book (Page - 115)
 
 **Standard Atmosphere (ISA)** — an internationally agreed upon reference model of the Earth's atmosphere (temperature, pressure, density) at various altitudes.
 
