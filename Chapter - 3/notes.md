@@ -17,3 +17,9 @@ Layers of the atmosphere in the model are classified into two types by the gradi
 - Gradient Layer - Temperature changes linearly throughout the layer ( a != 0)
 
 *Understood the logic/concept behind deriving p(h) and ρ(h), but couldn't develop intuition so far and unable to independently derive from scratch*
+
+**Pressure, Temperature, and Density Altitudes.** 
+
+- Altitudes calculated by comparing the ambient conditions with the ISA values
+
+*Initially confused why pressure and density altitude differ at the same point — they're just ISA reference altitudes, not physical heights. Temperature deviations from standard cause them to diverge.*
